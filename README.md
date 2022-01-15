@@ -1,1 +1,3 @@
-# RASSUS-lab-3-config
+## RASSUS-lab-3-config
+
+Spring Cloud Config Server
